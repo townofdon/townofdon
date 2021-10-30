@@ -5,7 +5,7 @@
 //- img - Thumbnail img for repo
 //- alt (optional) - alt text
 
-a(href=`https://github.com/townofdon/${name}`)
+a(href=demo || `https://github.com/townofdon/${name}` target="_blank" ref="noopener noreferrer")
   img(
     alt=alt || name
     src=img

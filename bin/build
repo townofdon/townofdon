@@ -40,10 +40,10 @@ function genReposMarkup() {
     const [statsA, imgA] = getRepoMarkupSections(repoA);
     const [statsB, imgB] = getRepoMarkupSections(repoB);
 
-    markup += imgA || "";
-    markup += imgB || "";
-    markup += statsA || "";
-    markup += statsB || "";
+    markup += imgA ? `${imgA}\n` : "";
+    markup += imgB ? `${imgB}\n` : "";
+    markup += statsA ? `${statsA}\n` : "";
+    markup += statsB ? `${statsB}\n` : "";
 
     i += 2;
   }
@@ -62,7 +62,9 @@ function genToolsMarkup() {
   while (i < config.tools.length) {
     if (!config.tools[i].name) throw new Error(`unspecified name for config.tools[${i}]`);
     if (!config.tools[i].url) console.warn(`config tool ${!config.tools[i].name} has not specified a url`);
-    markup += pugTool(config.tools[i]);
+
+    const tool = pugTool(config.tools[i]);
+    markup += tool ? `${tool}\n` : "";
 
     i += 1;
   }
