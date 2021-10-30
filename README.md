@@ -75,14 +75,10 @@ Timezone: EST/EDT
 
 I'm a full-time senior software engineer currently working for Airship LLC. I specialize in highly-modular and intuitive UIs built with React Native and React.
 
-- 🔭 I’m currently working on YouTube tutorials
-- 🌱 I’m currently learning Unity && Blender
-- 👯 I’m looking to collaborate on game dev
-- 🤔 I’m looking for help with Unity
-- 💬 Ask me about World Building in Hollow Knight
-- 📫 How to reach me: townofdon@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I released 6 solo piano albums and 1 electronic EP in 2020
+- 📹 I’m currently working on [YouTube Javascript tutorials](https://www.youtube.com/channel/UC0s6jJw80V6-qG9KkUVjXfA)
+- 📦 I’m currently learning Unity && Blender
+- 🤙 I’m looking to collaborate on game dev
+- ⚡ Fun fact: I released 6 solo piano albums and 1 electronic EP in 2020 - it almost killed me 💀
 
 <br />
 
