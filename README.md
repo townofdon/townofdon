@@ -2,9 +2,20 @@
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0959aa.svg?colorA=0A66C2&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/townsenddon/)
-[![YouTube](https://img.shields.io/badge/YOUTUBE-e60000.svg?colorA=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/channel/UC0s6jJw80V6-qG9KkUVjXfA)
-[![Twitter](https://img.shields.io/badge/-TWITTER-0e9af1.svg?colorA=1DA1F2&logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/donjuancodes)
+<p align="center">
+  <a href="https://dontownsendcreative.com/">
+    <img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-ffffff.svg?colorA=ffffff&style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/townsenddon/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-0959aa.svg?colorA=0A66C2&logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="https://www.youtube.com/channel/UC0s6jJw80V6-qG9KkUVjXfA">
+    <img alt="YouTube" src="https://img.shields.io/badge/YOUTUBE-e60000.svg?colorA=FF0000&logo=youtube&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://twitter.com/donjuancodes">
+    <img alt="Twitter" src="https://img.shields.io/badge/-TWITTER-0e9af1.svg?colorA=1DA1F2&logo=twitter&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
 
 <br/>
 
