@@ -1,6 +1,14 @@
-### Hi there, I'm Don 👾
+<h1 align="center">
+  <strong>Hi there, I'm Don 👾</strong>
+</h1>
 
----
+<!--
+**townofdon/townofdon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
+<!--
+Available themes here: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md#stats
+-->
 
 <p align="center">
   <a href="https://dontownsendcreative.com/">
@@ -17,9 +25,23 @@
   </a>
 </p>
 
+<p align="center">
+Programmer by day, musician by night.
+</p>
+
+<p align="center">
+Fighter of the night man.
+</p>
+
+<p align="center">
+Coder of the universe.
+</p>
+
 <br/>
 
-## My Favorite Projects 💻
+<h2 align="center">
+  My Favorite Projects 💻
+</h2>
 
 <!--
 PROJECTS AUTO-GENERATED
@@ -41,15 +63,15 @@ RUN: npm run build
   <!-- END_REPOS -->
 </p>
 
-## About Me 🤓
+<br />
 
+<h2 align="center">
+  About Me 🤓
+</h2>
+
+<p align="center">
 Timezone: EST/EDT
-
-Programmer by day, musician by night.
-
-Fighter of the day man.
-
-Coder of the universe.
+</p>
 
 I'm a full-time senior software engineer currently working for Airship LLC. I specialize in highly-modular and intuitive UIs built with React Native and React.
 
@@ -62,7 +84,11 @@ I'm a full-time senior software engineer currently working for Airship LLC. I sp
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I released 6 solo piano albums and 1 electronic EP in 2020
 
-## Tools & Technologies
+<br />
+
+<h2 align="center">
+Tools & Technologies
+</h2>
 
 <!--
 TOOLS AUTO-GENERATED
@@ -89,24 +115,10 @@ RUN: npm run build
   <!-- END_TOOLS -->
 </p>
 
-<!--
-**townofdon/townofdon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <br/>
 
-<!-- Available themes here: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md#stats  -->
+---
+
 <p align="center">
   <a href="https://github.com/townofdon/github-readme-stats">
     <img alt="Don's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=townofdon&show_icons=true&theme=onedark&count_private=true" align="center" />
