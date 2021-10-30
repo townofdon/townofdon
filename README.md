@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ![Don's GitHub stats](https://github-readme-stats.vercel.app/api?username=townofdon&show_icons=true&theme=onedark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats?theme=onedark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=townofdon&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
