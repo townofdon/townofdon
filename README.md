@@ -40,7 +40,7 @@ Coder of the universe.
 <br/>
 
 <h2 align="center">
-  My Favorite Projects 💻
+  Featured Projects 💻
 </h2>
 
 <!--
