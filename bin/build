@@ -1,0 +1,92 @@
+#!/usr/bin/env node
+
+const pug = require("pug");
+const YAML = require("yaml");
+
+const { Content } = require("../utils/Content");
+const { FileSystem } = require("../utils/FileSystem");
+
+const srcConfig = FileSystem.readFile("config.yml");
+const srcTool = FileSystem.readFile("templates/tool.pug");
+const srcRepoStats = FileSystem.readFile("templates/repostats.pug");
+const srcRepoImg = FileSystem.readFile("templates/repoimg.pug");
+
+const config = YAML.parse(srcConfig);
+const options = { pretty: true };
+
+const pugTool = pug.compile(srcTool, options);
+const pugRepoStats = pug.compile(srcRepoStats, options);
+const pugRepoImg = pug.compile(srcRepoImg, options);
+
+function getRepoMarkupSections(repo, index) {
+  if (!repo) return [];
+  if (!repo.name) throw new Error(`unspecified name for config.repos[${index}]`);
+  const statsMarkup = pugRepoStats(repo);
+  const imgMarkup = pugRepoImg(repo);
+  return [statsMarkup, imgMarkup];
+}
+
+function genReposMarkup() {
+  if (!config.repos || !config.repos.length) {
+    console.warn("config.repos not found, or was empty");
+    return "";
+  }
+
+  let markup = "";
+  let i = 0;
+  while (i < config.repos.length) {
+    const repoA = config.repos[i];
+    const repoB = config.repos[i + 1];
+    const [statsA, imgA] = getRepoMarkupSections(repoA);
+    const [statsB, imgB] = getRepoMarkupSections(repoB);
+
+    markup += imgA || "";
+    markup += imgB || "";
+    markup += statsA || "";
+    markup += statsB || "";
+
+    i += 2;
+  }
+
+  return markup;
+}
+
+function genToolsMarkup() {
+  if (!config.tools || !config.tools.length) {
+    console.warn("config.tools not found, or was empty");
+    return "";
+  }
+
+  let markup = "";
+  let i = 0;
+  while (i < config.tools.length) {
+    if (!config.tools[i].name) throw new Error(`unspecified name for config.tools[${i}]`);
+    if (!config.tools[i].url) console.warn(`config tool ${!config.tools[i].name} has not specified a url`);
+    markup += pugTool(config.tools[i]);
+
+    i += 1;
+  }
+
+  return markup;
+}
+
+function main() {
+  const timestamp = Date.now();
+
+  const contentOrig = FileSystem.readFile("README.md");
+  if (!contentOrig) throw new Error("README.md is blank");
+
+  let markup = contentOrig;
+  const repoMarkup = genReposMarkup();
+  const toolMarkup = genToolsMarkup();
+
+  markup = Content.getReplaced(markup, Content.indented(repoMarkup), "BEGIN_REPOS", "END_REPOS");
+  markup = Content.getReplaced(markup, Content.indented(toolMarkup), "BEGIN_TOOLS", "END_TOOLS");
+
+  FileSystem.writeFile("README.md", markup);
+
+  console.log("✓ Updated README.md");
+  console.log(`  Finished in ${Date.now() - timestamp}ms`);
+}
+
+main();

@@ -1,0 +1,14 @@
+//- Repo card img
+//- -----------------------------------------
+//- ATTITRIBUTES
+//- name - Name of repo (used for url)
+//- img - Thumbnail img for repo
+//- alt (optional) - alt text
+
+a(href=`https://github.com/townofdon/${name}`)
+  img(
+    alt=alt || name
+    src=img
+    width="400"
+    align="bottom"
+  )

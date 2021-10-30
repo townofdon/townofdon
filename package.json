@@ -1,0 +1,26 @@
+{
+  "name": "townofdon",
+  "version": "1.0.0",
+  "description": "GitHub profile readme",
+  "main": "index.js",
+  "scripts": {
+    "build": "node ./bin/build",
+    "start": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/townofdon/townofdon.git"
+  },
+  "author": "Don Juan Javier (townofdon)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/townofdon/townofdon/issues"
+  },
+  "homepage": "https://github.com/townofdon/townofdon#readme",
+  "dependencies": {
+    "path": "^0.12.7",
+    "pug": "^3.0.2",
+    "yaml": "^1.10.2"
+  }
+}

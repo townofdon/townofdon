@@ -1,0 +1,53 @@
+# config for markdown auto-generation
+
+repos:
+  - name: don-townsend-creative
+    img: ./assets/img/repo/don-townsend-creative.png
+    demo: https://dontownsendcreative.com/
+  - name: ytv-parallax-vanilla-js
+    img: ./assets/img/repo/ytv-parallax-vanilla-js.png
+    demo: https://townofdon.github.io/ytv-parallax-vanilla-js/
+  - name: yt-react-parallax
+    img: ./assets/img/repo/yt-react-parallax.png
+    demo: https://townofdon.github.io/yt-react-parallax
+  - name: three-js-clock
+    img: ./assets/img/repo/three-js-clock.png
+    demo: https://townofdon.github.io/three-js-clock
+
+tools:
+  - name: Apollo
+    url: https://www.apollographql.com/docs/react/
+    logo: ./assets/img/logo/apollo.png
+  - name: CSS
+    url: https://www.w3schools.com/css/
+    logo: ./assets/img/logo/css3.png
+  - name: D3
+    url: https://d3js.org/
+    logo: ./assets/img/logo/d3.png
+  - name: Github
+    url: https://github.com/townofdon
+    logo: ./assets/img/logo/github.png
+  - name: Html
+    url: https://www.w3.org/html/
+    logo: ./assets/img/logo/html5.png
+  - name: JavaScript
+    url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+    logo: ./assets/img/logo/javascript.png
+  - name: NodeJS
+    url: https://nodejs.org/en/
+    logo: ./assets/img/logo/nodejs.png
+  - name: React
+    url: https://reactjs.org/
+    logo: ./assets/img/logo/react.png
+  - name: Ruby
+    url: https://www.ruby-lang.org/en/
+    logo: ./assets/img/logo/ruby.png
+  - name: Typescript
+    url: https://www.typescriptlang.org/
+    logo: ./assets/img/logo/typescript.png
+  - name: Unity
+    url: https://unity.com/
+    logo: ./assets/img/logo/unity.png
+  - name: Visual Studio Code
+    url: https://code.visualstudio.com/
+    logo: ./assets/img/logo/vscode.png

@@ -10,18 +10,17 @@
 
 ## My Favorite Projects 💻
 
-<p align="center">
-  <a href="https://github.com/townofdon/don-townsend-creative">
-    <img alt="Don Townsend Creative" align="bottom" src="https://github-readme-stats.vercel.app/api/pin/?username=townofdon&repo=don-townsend-creative&theme=noctis_minimus" />
-  </a>
-  <a href="https://github.com/townofdon/ytv-parallax-vanilla-js">
-    <img alt="VanillaJS Parallax Demo" align="bottom" src="https://github-readme-stats.vercel.app/api/pin/?username=townofdon&repo=ytv-parallax-vanilla-js&theme=noctis_minimus" />
-  </a>
-  <a href="https://github.com/townofdon/three-js-clock">
-    <img alt="ThreeJS Clock" align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=townofdon&repo=three-js-clock&theme=noctis_minimus" />
-  </a>
-</p>
+<!--
+PROJECTS AUTO-GENERATED
+EDIT: config.yml
+RUN: npm run build
+-->
 
+<p align="center">
+  <!-- BEGIN_REPOS -->
+  <a href="https://github.com/townofdon/don-townsend-creative"><img alt="don-townsend-creative" src="./assets/img/repo/don-townsend-creative.png" width="400" align="bottom"/></a><a href="https://github.com/townofdon/ytv-parallax-vanilla-js"><img alt="ytv-parallax-vanilla-js" src="./assets/img/repo/ytv-parallax-vanilla-js.png" width="400" align="bottom"/></a><a href="https://github.com/townofdon/don-townsend-creative"><img alt="don-townsend-creative" src="https://github-readme-stats.vercel.app/api/pin/?username=townofdon&amp;repo=don-townsend-creative&amp;theme=noctis_minimus" align="top"/></a><a href="https://github.com/townofdon/ytv-parallax-vanilla-js"><img alt="ytv-parallax-vanilla-js" src="https://github-readme-stats.vercel.app/api/pin/?username=townofdon&amp;repo=ytv-parallax-vanilla-js&amp;theme=noctis_minimus" align="top"/></a><a href="https://github.com/townofdon/yt-react-parallax"><img alt="yt-react-parallax" src="./assets/img/repo/yt-react-parallax.png" width="400" align="bottom"/></a><a href="https://github.com/townofdon/three-js-clock"><img alt="three-js-clock" src="./assets/img/repo/three-js-clock.png" width="400" align="bottom"/></a><a href="https://github.com/townofdon/yt-react-parallax"><img alt="yt-react-parallax" src="https://github-readme-stats.vercel.app/api/pin/?username=townofdon&amp;repo=yt-react-parallax&amp;theme=noctis_minimus" align="top"/></a><a href="https://github.com/townofdon/three-js-clock"><img alt="three-js-clock" src="https://github-readme-stats.vercel.app/api/pin/?username=townofdon&amp;repo=three-js-clock&amp;theme=noctis_minimus" align="top"/></a>
+  <!-- END_REPOS -->
+</p>
 
 ## About Me 🤓
 
@@ -44,32 +43,19 @@ I'm a full-time senior software engineer currently working for Airship LLC. I sp
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I released 6 solo piano albums and 1 electronic EP in 2020
 
+## Tools & Technologies
 
-<!-- ## Tools & Technologies 🔧
+<!--
+TOOLS AUTO-GENERATED
+EDIT: config.yml
+RUN: npm run build
+-->
 
 <p align="center">
-<a href="https://www.w3.org/html/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;">
-</a>
-<a href="https://www.w3schools.com/css/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;">
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;">
-</a>
-<a href="https://www.typescriptlang.org/">
-  <img src="https://www.typescriptlang.org/images/branding/logo-grouping.svg" alt="Typescript" width="40" height="40" data-canonical-src="https://www.typescriptlang.org/images/branding/logo-grouping.svg" style="max-width: 100%;">
-</a>
-<a href="https://reactjs.org/">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40" style="max-width: 100%;">
-  </a>
-<a href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
-  <img alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width: 100%;">
-</a>
-<a href="https://github.com/YuriDevAT/YuriDevAT/blob/main/github_.png">
-  <img alt="GitHub" width="40px" src="https://github.com/YuriDevAT/YuriDevAT/raw/main/github_.png" style="max-width: 100%;">
-</a>
-</p> -->
+  <!-- BEGIN_TOOLS -->
+  <a href="https://www.apollographql.com/docs/react/"><img src="./assets/img/logo/apollo.png" alt="Apollo" width="40" height="40" style="max-width: 100%;"/></a><a href="https://www.w3schools.com/css/"><img src="./assets/img/logo/css3.png" alt="CSS" width="40" height="40" style="max-width: 100%;"/></a><a href="https://d3js.org/"><img src="./assets/img/logo/d3.png" alt="D3" width="40" height="40" style="max-width: 100%;"/></a><a href="https://github.com/townofdon"><img src="./assets/img/logo/github.png" alt="Github" width="40" height="40" style="max-width: 100%;"/></a><a href="https://www.w3.org/html/"><img src="./assets/img/logo/html5.png" alt="Html" width="40" height="40" style="max-width: 100%;"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./assets/img/logo/javascript.png" alt="JavaScript" width="40" height="40" style="max-width: 100%;"/></a><a href="https://nodejs.org/en/"><img src="./assets/img/logo/nodejs.png" alt="NodeJS" width="40" height="40" style="max-width: 100%;"/></a><a href="https://reactjs.org/"><img src="./assets/img/logo/react.png" alt="React" width="40" height="40" style="max-width: 100%;"/></a><a href="https://www.ruby-lang.org/en/"><img src="./assets/img/logo/ruby.png" alt="Ruby" width="40" height="40" style="max-width: 100%;"/></a><a href="https://www.typescriptlang.org/"><img src="./assets/img/logo/typescript.png" alt="Typescript" width="40" height="40" style="max-width: 100%;"/></a><a href="https://unity.com/"><img src="./assets/img/logo/unity.png" alt="Unity" width="40" height="40" style="max-width: 100%;"/></a><a href="https://code.visualstudio.com/"><img src="./assets/img/logo/vscode.png" alt="Visual Studio Code" width="40" height="40" style="max-width: 100%;"/></a>
+  <!-- END_TOOLS -->
+</p>
 
 <!--
 **townofdon/townofdon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
