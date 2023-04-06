@@ -12,7 +12,7 @@ repos:
     demo: https://townofdon.github.io/yt-react-parallax
   - name: three-js-clock
     img: ./assets/img/repo/three-js-clock.png
-    demo:
+    demo: https://townofdon.github.io/three-js-clock
 
 tools:
   - name: Html

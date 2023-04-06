@@ -56,7 +56,7 @@ RUN: npm run build
   <a href="https://github.com/townofdon/don-townsend-creative"><img alt="don-townsend-creative" src="https://github-readme-stats.vercel.app/api/pin/?username=townofdon&amp;repo=don-townsend-creative&amp;theme=noctis_minimus" align="top"/></a>
   <a href="https://github.com/townofdon/ytv-parallax-vanilla-js"><img alt="ytv-parallax-vanilla-js" src="https://github-readme-stats.vercel.app/api/pin/?username=townofdon&amp;repo=ytv-parallax-vanilla-js&amp;theme=noctis_minimus" align="top"/></a>
   <a href="https://townofdon.github.io/yt-react-parallax" target="_blank" ref="noopener noreferrer"><img alt="yt-react-parallax" src="./assets/img/repo/yt-react-parallax.png" width="400" align="bottom"/></a>
-  <a href="https://github.com/townofdon/three-js-clock" target="_blank" ref="noopener noreferrer"><img alt="three-js-clock" src="./assets/img/repo/three-js-clock.png" width="400" align="bottom"/></a>
+  <a href="https://townofdon.github.io/three-js-clock" target="_blank" ref="noopener noreferrer"><img alt="three-js-clock" src="./assets/img/repo/three-js-clock.png" width="400" align="bottom"/></a>
   <a href="https://github.com/townofdon/yt-react-parallax"><img alt="yt-react-parallax" src="https://github-readme-stats.vercel.app/api/pin/?username=townofdon&amp;repo=yt-react-parallax&amp;theme=noctis_minimus" align="top"/></a>
   <a href="https://github.com/townofdon/three-js-clock"><img alt="three-js-clock" src="https://github-readme-stats.vercel.app/api/pin/?username=townofdon&amp;repo=three-js-clock&amp;theme=noctis_minimus" align="top"/></a>
   
