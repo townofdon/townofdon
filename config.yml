@@ -2,7 +2,7 @@
 
 repos:
   - name: snek-js
-    img: ./assets/img/repo/snek-gh-banner.png
+    img: ./assets/img/repo/snek-banner-1280x640.png
     demo: https://townofdon.github.io/snek-js/
   - name: portuguese-practice
     img: ./assets/img/repo/portuguese-exercises.png
