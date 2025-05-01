@@ -77,12 +77,12 @@ RUN: npm run build
 Timezone: EST/EDT
 </p>
 
-I'm a full-time senior software engineer currently working for Airship LLC. I specialize in highly-modular and intuitive UIs built with React Native and React.
+I'm a full-time senior software engineer currently working for [Axon Enterprise](https://www.axon.com/). I specialize in solving complex problems and building intuitive and elegant UIs in React.
 
-- 📹 I’m currently working on [YouTube Javascript tutorials](https://www.youtube.com/channel/UC0s6jJw80V6-qG9KkUVjXfA)
-- 📦 I’m currently learning Unity && Blender
+- 🇧🇷 I’m currently learning Portuguese
+- 🕹 I’m currently learning Godot
 - 🤙 I’m looking to collaborate on game dev
-- ⚡ Fun fact: I released 6 solo piano albums and 1 electronic EP in 2020 - it almost killed me 💀
+- ⚡ Fun fact: I play the piano and create [chiptunes](https://mutemapper.bandcamp.com/album/snek-ost)
 
 <br />
 
