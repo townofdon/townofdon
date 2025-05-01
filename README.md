@@ -51,6 +51,10 @@ RUN: npm run build
 
 <p align="center">
   <!-- BEGIN_REPOS -->
+  <a href="https://townofdon.github.io/snek-js/" target="_blank" ref="noopener noreferrer"><img alt="snek-js" src="./assets/img/repo/snek-gh-banner.png" width="400" align="bottom"/></a>
+  <a href="https://townofdon.github.io/portuguese-practice/" target="_blank" ref="noopener noreferrer"><img alt="portuguese-practice" src="./assets/img/repo/portuguese-exercises.png" width="400" align="bottom"/></a>
+  <a href="https://github.com/townofdon/snek-js"><img alt="snek-js" src="https://github-readme-stats.vercel.app/api/pin/?username=townofdon&amp;repo=snek-js&amp;theme=noctis_minimus" align="top"/></a>
+  <a href="https://github.com/townofdon/portuguese-practice"><img alt="portuguese-practice" src="https://github-readme-stats.vercel.app/api/pin/?username=townofdon&amp;repo=portuguese-practice&amp;theme=noctis_minimus" align="top"/></a>
   <a href="https://dontownsendcreative.com/" target="_blank" ref="noopener noreferrer"><img alt="don-townsend-creative" src="./assets/img/repo/don-townsend-creative.png" width="400" align="bottom"/></a>
   <a href="https://townofdon.github.io/ytv-parallax-vanilla-js/" target="_blank" ref="noopener noreferrer"><img alt="ytv-parallax-vanilla-js" src="./assets/img/repo/ytv-parallax-vanilla-js.png" width="400" align="bottom"/></a>
   <a href="https://github.com/townofdon/don-townsend-creative"><img alt="don-townsend-creative" src="https://github-readme-stats.vercel.app/api/pin/?username=townofdon&amp;repo=don-townsend-creative&amp;theme=noctis_minimus" align="top"/></a>

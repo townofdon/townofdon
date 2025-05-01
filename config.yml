@@ -1,6 +1,12 @@
 # config for markdown auto-generation
 
 repos:
+  - name: snek-js
+    img: ./assets/img/repo/snek-gh-banner.png
+    demo: https://townofdon.github.io/snek-js/
+  - name: portuguese-practice
+    img: ./assets/img/repo/portuguese-exercises.png
+    demo: https://townofdon.github.io/portuguese-practice/
   - name: don-townsend-creative
     img: ./assets/img/repo/don-townsend-creative.png
     demo: https://dontownsendcreative.com/
