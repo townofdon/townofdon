@@ -4,9 +4,12 @@ repos:
   - name: snek-js
     img: ./assets/img/repo/snek-banner-1280x640.png
     demo: https://townofdon.github.io/snek-js/
-  - name: portuguese-practice
-    img: ./assets/img/repo/portuguese-exercises.png
-    demo: https://townofdon.github.io/portuguese-practice/
+  # - name: portuguese-practice
+  #   img: ./assets/img/repo/portuguese-exercises.png
+  #   demo: https://townofdon.github.io/portuguese-practice/
+  - name: lerpgraph
+    img: ./assets/img/repo/lerpgraph-damped-spring-fns.png
+    demo: https://townofdon.github.io/lerpgraph
   - name: don-townsend-creative
     img: ./assets/img/repo/don-townsend-creative.png
     demo: https://dontownsendcreative.com/
