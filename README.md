@@ -43,6 +43,8 @@ Coder of the universe.
   Featured Projects 💻
 </h2>
 
+<p align="center">🎮 Check out my <a href="https://donjuanjavier.itch.io/">Game Dev Portfolio</a></p>
+
 <!--
 PROJECTS AUTO-GENERATED
 EDIT: config.yml
