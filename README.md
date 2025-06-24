@@ -98,7 +98,7 @@ EDIT: config.yml
 RUN: npm run build
 -->
 
-<p align="center">
+<p align="center" style="background-color: #2E3440; padding: 5px; border-radius: 5px;">
   <!-- BEGIN_TOOLS -->
   <a href="https://www.w3.org/html/" target="_blank" ref="noopener noreferrer"><img src="./assets/img/logo/html5.png" alt="Html" height="40" style="max-width: 100%;"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" ref="noopener noreferrer"><img src="./assets/img/logo/css3.png" alt="CSS" height="40" style="max-width: 100%;"/></a>
@@ -123,11 +123,11 @@ RUN: npm run build
 
 <p align="center">
   <a href="https://github.com/townofdon/github-readme-stats">
-    <img alt="Don's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=townofdon&show_icons=true&theme=onedark&count_private=true" align="center" />
+    <img alt="Don's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=townofdon&show_icons=true&theme=noctis_minimus&count_private=true" align="center" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/townofdon/github-readme-stats">
-    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=townofdon&theme=onedark&layout=compact&count_private=true" align="center" />
+    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=townofdon&theme=noctis_minimus&layout=compact&count_private=true" align="center" />
   </a>
 </p>
